@@ -1,48 +1,66 @@
-# Hi there, I'm Kamal Homadi Albosi! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kamal%20Homadi%20Albosi&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-### 👨‍💻 Software & Systems Developer | IT & Information Systems Specialist
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalalbosi-ENG&layout=compact&theme=radical&hide_border=true" align="right" width="300" />
+</div>
 
-I'm a passionate developer exploring the intersection of Web, Mobile apps, and IoT ecosystems. I love building elegant solutions to complex problems.
+### 👋 Hello World! I'm Kamal
+
+> **Software & Systems Developer | IT Specialist**  
+> *Building digital excellence through clean code and innovative design.*
 
 ---
 
-### 🚀 Technical Skills
-
-<p align="left">
-  <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
-  <a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
-  <a href="https://mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamalalbosi-ENG&theme=radical&no-bg=true&no-frame=true&column=4" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ My Tech Stack
+
+#### 🌐 Web Development
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GIT](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### 📈 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalalbosi-ENG&show_icons=true&theme=radical" alt="Kamal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalalbosi-ENG&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalalbosi-ENG&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalalbosi-ENG&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 📬 Get in Touch
+<div align="center">
+  <a href="https://wa.me/967781933369">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:kamal.albosi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<p align="left">
-  <a href="https://wa.me/967781933369" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:kamal.albosi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kamalalbosi-ENG/kamalalbosi-ENG/main/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
----
-
-### 🌟 Featured Projects:
-- [**Efrah (أفرح معنا)**](https://github.com/kamalalbosi-ENG/Efrah) - A luxury event management platform built with Laravel.
-
----
-*“Learning never exhausts the mind.” – Leonardo da Vinci*
+<p align="center">
+  <i>"Driven by data, inspired by design."</i>
+</p>
